@@ -1,8 +1,8 @@
-#Impressió en 3D de proteïnes
+# Impressió en 3D de proteïnes
 
 Descarregar el fitxer PDF per a una explicació mes detallada.
 
-##Protocol
+## Protocol
 1. Busca la proteïna d’interès al Protein Data Bank i descarrega-la en format PDB.
 2. Obre el fitxer PDB amb el software VMD.
 3. Exporta el fitxer PDB a STL.
