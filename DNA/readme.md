@@ -2,17 +2,26 @@
 
 Print pieces according needs.
 
-A - Adenine 
-T - Tiamine  
+A - Adenine
+
+T - Tiamine
+
 C - Citosine 
-G - Guanine 
+
+G - Guanine
+
 U - Uracil 
 
+
 D - Desoxy ribose 
+
 R - Ribose 
 
+
 tRNA - transfer RNA 
+
 AA - Aminoacid 
+
 
 ## V1
 ![DNA](https://github.com/Curedbio/3D-Printer/blob/master/DNA/DNA%20kit.png)
