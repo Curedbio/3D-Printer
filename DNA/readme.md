@@ -2,20 +2,15 @@
 
 Print pieces according to your needs.
 
-| Letter  | Second Header |
-| ------- | ------------- |
-| A       | Adenine       |
-| T       | Tiamine       |
-| C       | Citosine      |
-| G       | Guanine       |
-| U       | Uracil        |
-| D       | Desoxy ribose |
-| R       | Ribose        |
-| P       | Phosphor      |
-| 3'      | 3 end         |
-| 5'      | 5 end         |
-| tRNA    | transfer RNA  |
-|AA       | Aminoacid     |
+| Letter  | Second Header |      | Letter  | Second Header |      | Letter  | Second Header |      
+| ------- | ------------- |      | ------- | ------------- |      | ------- | ------------- |
+| A       | Adenine       |      | D       | Desoxy ribose |      | tRNA    | transfer RNA  |
+| T       | Tiamine       |      | R       | Ribose        |      |AA       | Aminoacid     |
+| C       | Citosine      |      | P       | Phosphor      |      
+| G       | Guanine       |      | 3'      | 3 end         |
+| U       | Uracil        |      | 5'      | 5 end         |
+      
+
 
 
 ## V1
