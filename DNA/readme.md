@@ -2,8 +2,8 @@
 
 Print pieces according to your needs.
 
-| Letter  | Second Header |      | Letter  | Second Header |      | Letter  | Second Header |      
-| ------- | ------------- |------| ------- | ------------- |------| ------- | ------------- |
+| ID      | Part          |      | ID      | Part          |      | ID      | Part |      
+| :-----: | ------------- |------| :-----: | ------------- |------|:-----: | ------------- |
 | A       | Adenine       |      | D       | Desoxy ribose |      | tRNA    | transfer RNA  |
 | T       | Tiamine       |      | R       | Ribose        |      |AA       | Aminoacid     |
 | C       | Citosine      |      | P       | Phosphor      |      
