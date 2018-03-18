@@ -2,25 +2,20 @@
 
 Print pieces according to your needs.
 
-A - Adenine
-
-T - Tiamine
-
-C - Citosine 
-
-G - Guanine
-
-U - Uracil 
-
-
-D - Desoxy ribose 
-
-R - Ribose 
-
-
-tRNA - transfer RNA 
-
-AA - Aminoacid 
+| Letter  | Second Header |
+| ------- | ------------- |
+| A       | Adenine       |
+| T       | Tiamine       |
+| C       | Citosine      |
+| G       | Guanine       |
+| U       | Uracil        |
+| D       | Desoxy ribose |
+| R       | Ribose        |
+| P       | Phosphor      |
+| 3'      | 3 end         |
+| 5'      | 5 end         |
+| tRNA    | transfer RNA  |
+|AA       | Aminoacid     |
 
 
 ## V1
