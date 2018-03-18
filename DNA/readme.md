@@ -1,6 +1,6 @@
 # DNA Kit
 
-Print pieces according needs.
+Print pieces according to your needs.
 
 A - Adenine
 
