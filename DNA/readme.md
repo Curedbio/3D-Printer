@@ -1,7 +1,7 @@
 # DNA Kit
 
 The main idea is show the basic rules of DNA (nitrogenous base pairing, codons, aminoacids). 
-Is recomended to use the DNA codon table (https://en.wikipedia.org/wiki/DNA_codon_table) 
+Is recomended to use the DNA codon table (https://en.wikipedia.org/wiki/DNA_codon_table). 
 Print pieces according to your needs.
 
 
@@ -20,14 +20,14 @@ Print pieces according to your needs.
 ## V1
 ![DNA](https://github.com/Curedbio/3D-Printer/blob/master/DNA/DNA%20kit.png)
 
-_Based on Eaglenot_
+_Based on Eaglenot._
 
 ## V2
 ![DNA](https://github.com/Curedbio/3D-Printer/blob/master/DNA/ADN_AA_V2.png)
 
-Nitrogenous base shows hidrogen bonds (A=T, A=U, C≡G)
+Nitrogenous base shows hidrogen bonds (A=T, A=U, C≡G).
 
-Includes all aminoacids
+Includes all aminoacids.
 
-_Based on HMMI Biointeractive_
+_Based on HMMI Biointeractive._
 
