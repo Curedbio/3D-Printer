@@ -25,7 +25,7 @@ _Based on Eaglenot_
 ## V2
 ![DNA](https://github.com/Curedbio/3D-Printer/blob/master/DNA/ADN_AA_V2.png)
 
-Nitrogenous base show hidrogen bonds (A=T, A=U, C≡G)
+Nitrogenous base shows hidrogen bonds (A=T, A=U, C≡G)
 
 Includes all aminoacids
 
