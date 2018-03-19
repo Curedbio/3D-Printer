@@ -1,15 +1,17 @@
-# Impressió en 3D de proteïnes
+# Protein 3D Printing
 
-Descarregar el fitxer PDF per a una explicació mes detallada.
+Download PDF file for more info (CAT, SPA, ENG).
+
 
 ## Protocol
-1. Buscar la proteïna d’interès al Protein Data Bank i descarregar-la en format PDB.
-2. Obrir el fitxer PDB amb PyMol.
-3. Exportar el fitxer PDB a STL.
-4. Reparar el fitxer amb NetFabb.
-5. Modificar superficie proteina.
-6. Tallar l'objecte resultant en 2 meitats.
-7. Exportar ambdues meitats com a fitxers independents.
-9. Imprimir el fitxer utilitzant suports i/o rafts.
+1. Look for your ptein of interest at the Protein Data Bank and downalod PDB file.
+2. Open PDB file with PyMol.
+3. Export from PDB to STL.
+4. Load STL into Netfabb
+5. Fix file.
+6. Modifiy surface
+7 Cut into 2 bodies.
+8. Export each body into separate STL file. 
+9. Print each file 20% infill, with suports and/or rafts.
 
-
+_Based on HMMI Biointeractive._
