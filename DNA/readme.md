@@ -8,9 +8,9 @@ Print pieces according to your needs.
 
 | ID      | Part          |      | ID      | Part          |      | ID      | Part |      
 | :-----: | ------------- |------| :-----: | ------------- |------|:-----: | ------------- |
-| A       | Adenine       |      | D       | Desoxy ribose |      | tRNA    | Transfer RNA  |
-| T       | Tiamine       |      | R       | Ribose        |      |AA       | Aminoacid     |
-| C       | Citosine      |      | P       | Phosphor      |      
+| A       | Adenine       |      | D       | Desoxyribose |      | tRNA    | Transfer RNA  |
+| T       | Thymine       |      | R       | Ribose        |      |AA       | Aminoacid     |
+| C       | Cytosine      |      | P       | Phosphate     |      
 | G       | Guanine       |      | 3'      | 3 end         |
 | U       | Uracil        |      | 5'      | 5 end         |
       
@@ -19,11 +19,14 @@ Print pieces according to your needs.
 
 ## V1
 ![DNA](https://github.com/Curedbio/3D-Printer/blob/master/DNA/DNA%20kit.png)
+_Based on Eaglenot_
 
 ## V2
+![DNA](https://github.com/Curedbio/3D-Printer/blob/master/DNA/ADN_AA_V2.png)
+
 Nitrogenous base show hidrogen bonds (A=T, A=U, C≡G)
 
 Includes all aminoacids
 
+_Based on HMMI Biointeractive_
 
-![DNA](https://github.com/Curedbio/3D-Printer/blob/master/DNA/ADN_AA_V2.png)
