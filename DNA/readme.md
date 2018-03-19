@@ -29,5 +29,3 @@ Nitrogenous base shows hidrogen bonds (A=T, A=U, C≡G).
 
 Includes all aminoacids.
 
-_Based on HMMI Biointeractive._
-
