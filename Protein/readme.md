@@ -1,7 +1,7 @@
 # Protein 3D Printing
 
 Download PDF file for more info (CAT, SPA, ENG).
-
+Example uses BCR-ABL wt (2HYY) and mutant (2Z60) with some ATP, imatinib and dasatinib as ligands.
 
 ## Protocol
 1. Look for your ptein of interest at the Protein Data Bank and downalod PDB file.
